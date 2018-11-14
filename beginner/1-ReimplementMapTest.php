@@ -55,5 +55,6 @@ class ReimplementMapTest extends PHPUnit_Framework_TestCase
             'Monday',
             'Saturday',
         ], $days);
+        
     }
 }
